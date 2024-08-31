@@ -1,1 +1,15 @@
 /* Add your CSS styles here */ 
+div {
+    color: red;
+    background-color: lightseagreen;
+}
+ 
+/* div , span {
+    color: lightskyblue;
+    background-color: lightcoral;
+}  */
+
+p {
+    color: white;
+    background-color: darkgreen;
+}

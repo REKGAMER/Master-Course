@@ -1,1 +1,12 @@
 /* Add your CSS styles here */ 
+p {
+    background-color: cadetblue;
+}
+
+a {
+    background-color: chocolate;
+}
+
+div {
+    background-color: yellow;
+}

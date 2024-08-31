@@ -1,1 +1,57 @@
 /* Add your CSS styles here */ 
+
+/* Element Selector  */
+div {
+    /* background-color: red; */
+}
+
+/* Class Selector  */
+.red {
+    background-color: red;
+}
+
+/* Id Selector */
+#lightblue{
+    background-color: lightblue;
+}
+
+/* child Selector */
+
+div > p {
+    background-color: lightcoral;
+}
+
+/* descendant Selector */
+
+div p {
+    background-color: lightgreen;
+}
+
+/* Universal selector  */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* pseudo Selector */
+
+a:visited {
+    color: cornflowerblue;
+}
+
+a:link {
+    color: crimson;
+}
+
+a:active {
+    background-color: gray;
+}
+
+a:hover {
+    background-color: lightseagreen;
+}
+
+p:first-child {
+    background-color: #33ffee;
+}
